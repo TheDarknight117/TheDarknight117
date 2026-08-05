@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" />
+<img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2o0ZjJwd2E3NXl5bHp2dm1yNnExc2ZjNHBoY203cDFkbXE5eTRlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/napCd6ww7pE0lRP4rK/giphy.gif" />
 
 I'm **Darkcito**, a Software Engineering student from Bolivia focused on building technology for **software, esports, automation, education and digital media**.
 
