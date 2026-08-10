@@ -56,7 +56,7 @@ I enjoy transforming ideas and real-world problems into **functional software, a
 ### Backend & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,firebase,cloudflare" />
 </p>
 
 ### Databases
