@@ -44,7 +44,7 @@ I enjoy transforming ideas and real-world problems into **functional software, a
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,matlab,csharp" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,matlab,cs" />
 </p>
 
 ### Frontend & Applications
